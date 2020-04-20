@@ -1,9 +1,15 @@
 # FiftyBird
  Version of Flappy Bird
 
-Developed using Lua and Love2d
+Developed using:
 
-https://love2d.org/
+ Lua: https://www.lua.org/
+
+ Love2d: https://love2d.org/
+
+ Visual Studio Code: https://code.visualstudio.com/
+
+ Pixelbyte Studios Love2d API: pixelbyte-studios.pixelbyte-love2d
 
 Based on edX HarvardX: CS50G CS50's Introduction to Game Development
 
